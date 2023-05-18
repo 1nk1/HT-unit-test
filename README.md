@@ -21,7 +21,13 @@ npm install
 !!Don't foget so server able to work before you get start to run your test!!
 
 ```bash
-yarn server-start
+yarn start-server
+```
+
+or 
+
+```bash
+npm run start-server
 ```
 
 In order to use the UserDataHandler class you need to have the server running.
