@@ -2,7 +2,7 @@ const axios = require('axios').default
 
 /**
  *
- * A class for interracting with user data
+ * A class for interacting with user data
  * @class UserDataHandler
  */
 class UserDataHandler {
